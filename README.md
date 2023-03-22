@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Estudante de tecnologia no SENAI 💻
-<br>
+
 Estou no 2° ano do Ensino Médio no SESI 388 📚
-<br>
-Tecladista e professora de teclado 🎹
+
+Tecladista 🎹
+
+## Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
