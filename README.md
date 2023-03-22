@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 Estudante de tecnologia no SENAI 💻
 <br>
-Estou no 2° ano do Ensino Médio no SESI 📚
+Estou no 2° ano do Ensino Médio no SESI 388 📚
 <br>
 Tecladista e professora de teclado 🎹
