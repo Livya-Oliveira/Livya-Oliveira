@@ -1,9 +1,9 @@
 
-Estudante de tecnologia no SENAI 💻
+Estudante de tecnologia no SENAI CONDE JOSÉ VICENTE DE AZEVEDO 💻
 
-Estou no 3° ano do Ensino Médio no SESI 388 📚
+Estudante do 3° ano do Ensino Médio no SESI lauzane Paulista 388 📚
 
-Tecladista 🎹
+Amante de tecnologia 💕
 
 ## Painel 
 
