@@ -1,7 +1,7 @@
 
-Estudante de tecnologia no SENAI CONDE JOSÉ VICENTE DE AZEVEDO 💻
+Estudante de ciência de dados na FMU 💻
 
-Estudante do 3° ano do Ensino Médio no SESI lauzane Paulista 388 📚
+Técnica em Análise e Desenvolvimento de Sistemas pelo SENAI 📚
 
 Amante de tecnologia 💕
 
